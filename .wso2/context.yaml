@@ -1,0 +1,4 @@
+version: 2
+contexts:
+  - org: giga
+    project: default

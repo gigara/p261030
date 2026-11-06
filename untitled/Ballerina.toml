@@ -1,0 +1,9 @@
+[package]
+org = "chamupathigigarahettige"
+name = "untitled"
+version = "0.1.0"
+distribution = "2201.14.1"
+title = "Untitled"
+
+[build-options]
+sticky = true
